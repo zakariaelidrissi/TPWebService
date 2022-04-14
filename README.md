@@ -24,6 +24,16 @@
  Voici un autre exemple mais dans cette exemple on va tester la méthode getCompte :
 </p>
 
+![image](https://user-images.githubusercontent.com/61559275/163297941-f0ac3852-9cd4-4072-aadf-c31cf450ca98.png)
+
+<p>
+ Voici un autre exemple mais dans cette exemple on va tester la méthode listComptes :
+</p>
+
+![image](https://user-images.githubusercontent.com/61559275/163298134-1f0667b0-794d-4983-91c2-e2464c516e4a.png)
+
+
+
 <h1>PARTIE 2 :</h1>
 
 <p>
