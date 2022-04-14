@@ -28,6 +28,9 @@
 
 <p>
  Dans cette partie on va créer un autre projet qu'on appelle ClientWS.
+</p>
+<a href="https://github.com/zakariaelidrissi/ClientWS">lien de ce projet dans mon compte GitHub</a>
+<p>
  puis on va générer wsdl à partir du code java.
  Après on va créer une classe qu'on appelle ClientWS.
 </p>
