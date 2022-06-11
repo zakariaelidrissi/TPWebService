@@ -58,15 +58,15 @@
 
 ![image](https://user-images.githubusercontent.com/61559275/163168149-a1951051-2da9-4114-b72e-5991e9efe019.png)
 
-<p>Puis on a cree un simple projet console om on a generé un name space à partir WSDl :</p>
+<p>Puis on va créer un simple projet avec C#, et on va generé un name space à partir WSDl :</p>
 
 ![image](https://user-images.githubusercontent.com/61559275/173189162-0dfdafc1-4781-4396-9276-984981c077d4.png)
 
-<p>Voici la classe qu'on a cree :</p>
+<p>Voici la classe qu'on a créé :</p>
 
 ![image](https://user-images.githubusercontent.com/61559275/173189194-051e651c-f37e-4fb4-9a28-5802c90ba328.png)
 
-<p>Voici le test :</p>
+<p>Voici le résultat de test :</p>
 
 ![image](https://user-images.githubusercontent.com/61559275/173189294-7fee809d-41d7-45ca-8049-6de49c484a6c.png)
 
