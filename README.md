@@ -58,7 +58,10 @@
 
 ![image](https://user-images.githubusercontent.com/61559275/163168149-a1951051-2da9-4114-b72e-5991e9efe019.png)
 
-<p>Puis on va créer un simple projet avec C#, et on va generé un name space à partir WSDl :</p>
+<h1>PARTIE 3 :</h1>
+
+<p>Dans cette partie on va créer un simple projet avec C#, et on va generé un name space à partir WSDl :</p>
+<a href="https://github.com/zakariaelidrissi/ConsoleApp2">lien de cette partie dans mon compte GitHub</a>
 
 ![image](https://user-images.githubusercontent.com/61559275/173189162-0dfdafc1-4781-4396-9276-984981c077d4.png)
 
